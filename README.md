@@ -1,2 +1,9 @@
 # GamingMaster
 All Things Relating to, Enhancing, optimizing and utilizing the FULL Capabilities of one's system to IMPROVE the OVERALL GAMING EXPERIENCE! 
+I've been Creating, building and designing customized computer systems for almost 30 Years now! My VERY FIRST computer was a Commodore Vic-20 which came with a WHOPPING 8K of STORAGE but was upgradable to 20K (for about $150 back in the EARLY 1980's) GADS, I FEEL OLD!!!! HAH! This was one of the first systems available to the general public for a DECENT price and it was eventually followed by the Commodore 64 Which is a tad more known for those of us involved with computers back then. The Commodore 64 was actually a pretty cool little pc for what was out at the time which wasnt much...
+ANYWAY I just wanted people to know a little bit about my computer background because I am a very upfront person and do try my very best to provide any help I can to those that really NEED it. I know that countless people have been there for me and helped me out in countless ways to learn and grow within the realm of computers over these many years! So I am here to both give and receive ANY help I can! 
+Thanks to everyone who was there for me over the years and I TRULY HOPE this New Repository I created will be both USEFUL AND HELPFUL to ALL who choose to utilize and or collaborate with it.
+I am OPEN to ANY suggestions as even though I have worked with computers systems for so very long, this is my VERY FIRST REPOSITORY with GitHub so I can also use all the support anyone would be willing to provide.
+In order to get things going, I am TRULY HOPING people will help provide useful software tools and applications here for the BENEFIT of ALL who choose to utilize it. I also welcome any TIPS, TRICKS or GUIDELINES or even walthrough links to further enhance and support this goal of an OVERALL BETTER GAMING EXPERIENCE! Be Well...
+Steven K.
+San Francisco CA
